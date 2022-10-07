@@ -5,9 +5,9 @@ functions:
 - github:
     branch: main
     deploy_on_push: true
-    repo: digitalocean/sample-functions-php-helloworld
+    repo: rogosprojects/digital-ocean-php-helloworld
   name: php-api
   routes:
   - path: /
   source_dir: /
-name: php-helloworld
+name: php-helloworld-new
